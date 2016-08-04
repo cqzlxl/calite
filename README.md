@@ -1,2 +1,2 @@
-# calite
+# CALite
 Lightweight implementation of CA
